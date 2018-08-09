@@ -1,0 +1,4 @@
+-> Encapsulamento
+-> Controladores de acesso:
+	- Public,Protected, Private
+	
