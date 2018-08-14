@@ -12,7 +12,11 @@
     public function getIsbn(){
       return $this->isbn;
     }
-    
+
+    public function getNomeAutor(){
+      return $this->autor;
+    }
+
   }
 
 ?>
